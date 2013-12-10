@@ -45,8 +45,9 @@ input {
 	margin: 20px;
 }
 	
-img {
+#img {
 	margin: auto;
+	width: 90px;
 }
 
 
@@ -63,4 +64,9 @@ button {
 	box-shadow: 1px 1px 5px gray;
 }
 
-
+#artikel, #volltext {
+	height: 1px;
+	left: -999em;
+	overflow: hidden;
+	position: absolute;
+}
