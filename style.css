@@ -30,7 +30,7 @@ fieldset {
 	border-radius: 300px 300px 300px 300px;
 }
 
-.suchfeld {
+#suchfeld {
 	width: 400px;
 	height: 50px;
 	border: 0px;
