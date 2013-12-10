@@ -64,7 +64,7 @@ button {
 	box-shadow: 1px 1px 5px gray;
 }
 
-legend {
+legend, label {
 	height: 1px;
 	left: -999em;
 	overflow: hidden;
